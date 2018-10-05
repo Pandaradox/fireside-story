@@ -2,7 +2,7 @@ body {
     color: white;
     background-color: black;
     font-family: 'Sacramento', cursive;
-    font-size: 150%;
+    font-size: 100%;
     margin: 5em 25%;
 }
 p {
@@ -10,4 +10,6 @@ p {
 }
 .forbode {
     font-style: italic;
+    font-size: 75%;
+    color: red;
 }
